@@ -1,4 +1,4 @@
-# ReversalWatch — Market Reversal Predictor
+# Market Reversal Predictor
 
 An end-to-end, locally runnable **CSS 486 machine-learning course project** for studying large stock-price moves opposite to an established trend. Uses Python, scikit-learn and a Streamlit dashboard. The included outputs were generated from the user's actual uploaded stock, benchmark and volatility data, NOT synthetic model scores.
 
