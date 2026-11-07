@@ -1,0 +1,9 @@
+{
+  "all_selected_holdings": 726688,
+  "matched_filing_date_rows": 290176,
+  "unmatched_rows": 436512,
+  "min_filing_date": "2025-09-02 00:00:00",
+  "max_filing_date": "2026-08-31 00:00:00",
+  "distinct_dates": 242,
+  "caveat": "Descriptive SEC 13F analysis ONLY; 13F duplicates, amendments, and multiple manager reporting can inflate sums. Not used as institutional ownership percentage or predictor."
+}

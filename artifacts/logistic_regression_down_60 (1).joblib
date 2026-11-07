@@ -1,0 +1,69 @@
+{
+  "pca_explained_variance_ratio": [
+    0.44659085451633596,
+    0.14026348517419832
+  ],
+  "pca_feature_loadings": {
+    "mom5": [
+      0.2635,
+      0.0001
+    ],
+    "mom10": [
+      0.3223,
+      0.0638
+    ],
+    "mom20": [
+      0.3543,
+      0.1182
+    ],
+    "mom60": [
+      0.2315,
+      0.2009
+    ],
+    "volume_ratio": [
+      -0.0411,
+      0.5604
+    ],
+    "volume_z20": [
+      -0.0384,
+      0.5533
+    ],
+    "volatility20": [
+      -0.0875,
+      0.1657
+    ],
+    "ma_gap20": [
+      0.3645,
+      0.0634
+    ],
+    "ma_gap50": [
+      0.3454,
+      0.143
+    ],
+    "drawdown20": [
+      0.3287,
+      -0.0864
+    ],
+    "spy_mom20": [
+      0.2637,
+      -0.196
+    ],
+    "qqq_mom20": [
+      0.2836,
+      -0.1528
+    ],
+    "rel_spy20": [
+      0.2912,
+      0.2531
+    ],
+    "vix": [
+      -0.1663,
+      0.2365
+    ],
+    "vix_change5": [
+      -0.1188,
+      0.2835
+    ]
+  },
+  "meaning": "PCA, KMeans, and Isolation Forest are descriptive; these are not reversal probabilities."
+}
